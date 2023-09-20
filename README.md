@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ivanzahariev
+- 👀 I’m interested in weight lifting and gaming
+- 🌱 I’m currently learning java in SoftUni
