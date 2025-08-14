@@ -10,8 +10,8 @@ Hi! I'm a 19-year-old software enthusiast passionate about coding, learning new 
 ## Education
 
 - Studied **Optics** at Lomonosov (2019–2024)
-- Completed the **Java Software Engineering Path** at SoftUni (2023–present)
-- Currently learning **JavaScript Front-End** and **AI for Developers**
+- Completed the **Java Software Engineering Path** at SoftUni (2023–2025)
+- Currently learning **AI for Developers**
 
 ## Work Experience
 
